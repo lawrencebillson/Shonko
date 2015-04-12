@@ -19,12 +19,12 @@ $deltat = 10;
 # threshold is met, we'll take a closer look at the cable
 #
 # Delta len, say 5 feet
-$deltalen = -100;
+$deltalen = 5;
 # Percent compare value, say 5% 
 $deltapercent = 5;
 
 # Signature comparison
-# This is the most contravercial bit - the program takes two signatures, a sum of the PSNEXT values,
+# This is the most subjective bit - the program takes two signatures, a sum of the PSNEXT values,
 # and the PSELFEXT frequencies. The cable signature is the sum of these values - this seems to differentiate
 # between deliberate duplicates
 # 
