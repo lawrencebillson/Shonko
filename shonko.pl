@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Script to read XML exports from Fluke Linkware, attempt to detect fraudulent
-# cable test results
+# cable test results - sorry cable guys
 # 
 # Lawrence Billson, 2015
 #
